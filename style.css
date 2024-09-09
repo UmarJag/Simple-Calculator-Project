@@ -1,0 +1,21 @@
+#calculator {
+    width: 200px;
+    margin: 0 auto;
+}
+#calculator input {
+    width: 100%;
+    height: 40px;
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+#calculator button {
+    width: 25%;
+    height: 50px;
+    font-size: 18px;
+    float: left;
+    border: 1px solid #ddd;
+}
+#calculator button:hover {
+    background-color: #f0f0f0;
+}
